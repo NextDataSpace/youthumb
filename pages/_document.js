@@ -28,6 +28,11 @@ class MyDocument extends Document {
         <body>
           <Main />
           <NextScript />
+
+          {/* Add your additional text here */}
+          <div style={{ textAlign: "center", margin: "20px" }}>
+            <p>This is some additional text added to the page.</p>
+          </div>
         </body>
       </Html>
     );
