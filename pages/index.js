@@ -58,6 +58,13 @@ const Index = () => {
           Download Thumbnails
         </button>
       </div>
+
+      <div className="input-container">
+  <input type="text" placeholder="Enter YouTube URL" />
+  <button className="btn-blue">Download Thumbnails</button>
+</div>
+
+
       {thumbnailOptions.length > 0 && (
         <div className="mt-8">
           <h2 className="text-xl font-semibold mb-4">Thumbnail Options</h2>
