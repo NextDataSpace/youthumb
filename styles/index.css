@@ -30,7 +30,7 @@ input[type="text"] + button {
 
 /* Style the "Download Thumbnails" button */
 .btn-blue {
-  background-color: #3498db;
+  background-color: #5dbea3;
   color: white;
   font-weight: bold;
   padding: 0.5rem 1rem;
@@ -40,7 +40,7 @@ input[type="text"] + button {
 }
 
 .btn-blue:hover {
-  background-color: #2680c5;
+  background-color: #4acfa9;
 }
 
 /* Style the thumbnail options */
