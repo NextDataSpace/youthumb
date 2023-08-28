@@ -30,7 +30,7 @@ class MyDocument extends Document {
           <NextScript />
 
           {/* Add your additional text here */}
-          <div style={{ textAlign: "center", margin: "20px" }}>
+          <div style={{ textAlign: "center", margin: "5px" }}>
             <p>This is some additional text added to the page.</p>
           </div>
         </body>
