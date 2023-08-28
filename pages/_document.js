@@ -30,7 +30,7 @@ class MyDocument extends Document {
           <NextScript />
 
           {/* Inserted Text */}
-          <div style={{ textAlign: "center", margin: "20px", whiteSpace: "pre-line" }}>
+          <div style={{ textAlign: "center", margin: "20px auto", padding: "0 20px", whiteSpace: "pre-line" }}>
             <h2>Welcome to Thumbnail Save</h2>
             <p>Unlock the potential of YouTube with Thumbnail Save, your all-in-one solution for accessing and downloading stunning thumbnail preview images.
             Enhance your content creation, marketing campaigns, and personal projects with captivating visuals.</p>
