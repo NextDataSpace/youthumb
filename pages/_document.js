@@ -31,8 +31,8 @@ class MyDocument extends Document {
 
           {/* Inserted Text */}
           <div style={{ textAlign: "center", margin: "120px auto", padding: "0 120px", whiteSpace: "pre-line" }}>
-            <h2>Welcome to Thumbnail Save</h2>
-            <p>Unlock the potential of YouTube with Thumbnail Save, your all-in-one solution for accessing and downloading stunning thumbnail preview images.
+            <h2>Welcome to Youtube Thumbnail Downloader</h2>
+            <p>Unlock the potential of YouTube with Thumbnail Grabber, your all-in-one solution for accessing and downloading stunning thumbnail preview images.
             Enhance your content creation, marketing campaigns, and personal projects with captivating visuals.</p>
             <h3>Supported Formats</h3>
             <p>Thumbnail Save supports a diverse range of formats, including YouTube's HD, HQ, 1080p, and even 4K options. This flexibility ensures that you can secure the ideal thumbnail for your unique needs.</p>
@@ -41,7 +41,7 @@ class MyDocument extends Document {
             Thumbnail Save streamlines the process of saving YouTube thumbnails for immediate and future use.</p>
             <h3>Simple Steps to Grab and Download</h3>
             <p>1. Copy the URL of the YouTube video from which you'd like to obtain the thumbnail.</p>
-            <p>2. Paste the URL into the provided box and click the 'Submit' button.</p>
+            <p>2. Paste the URL into the provided box and click the 'Download Thumbnails' button.</p>
             <p>3. The thumbnail preview image will be displayed for your convenience.</p>
             <p>4. To save the thumbnail, simply right-click the image and select 'Save image as...' from the context menu.</p>
             
