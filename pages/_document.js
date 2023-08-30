@@ -30,7 +30,7 @@ class MyDocument extends Document {
           <NextScript />
 
           {/* Inserted Text */}
-          <div style={{ textAlign: "center", margin: "120px auto", padding: "0 120px", whiteSpace: "pre-line" }}>
+          <div style={{ textAlign: "center", margin: "40px auto", padding: "0 40px", whiteSpace: "pre-line" }}>
             <h2>Welcome to Youtube Thumbnail Downloader</h2>
             <p>Unlock the potential of YouTube with Thumbnail Grabber, your all-in-one solution for accessing and downloading stunning thumbnail preview images.
             Enhance your content creation, marketing campaigns, and personal projects with captivating visuals.</p>

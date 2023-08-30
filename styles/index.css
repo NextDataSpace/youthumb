@@ -16,18 +16,16 @@ body {
 }
 
 /* Style the input and button for the YouTube URL */
-.input-container {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-
 input[type="text"] {
   padding: 0.5rem;
   border: 1px solid #ccc;
   border-radius: 4px;
   width: 150%;
-  margin-bottom: 0.5rem;
+}
+
+/* Add some spacing between input and button */
+input[type="text"] + button {
+  margin-top: 0.5rem;
 }
 
 /* Style the "Download Thumbnails" button */
